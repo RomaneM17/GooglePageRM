@@ -1,0 +1,79 @@
+#hdp
+{
+	font-family: Arial;
+	display: flex1;
+}
+
+#hdp
+{
+	text-align: right;
+}
+#connexion
+{
+	display: inline-block;
+	padding: 0.3em 1.2em;
+	margin: 0 0.3em 0.3em 0;
+	border-radius: 2em
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: arial;
+	font-weight: 300;
+	color: #FFFFFF
+	background-color: #4eb5f1;
+}
+#google
+{
+	text-align: center;
+}
+#barre1
+{
+	width: 500px;
+	height: 35px;	
+}
+#barre1
+{
+	border-radius: 20px 20px 20px 20px
+}
+#barre
+{
+	text-align: center;
+}
+#button
+{
+	text-align: center;
+}
+#button
+{
+	border-radius: 5px 5px 5px 5px
+}
+footer
+{
+	font-family: Arial;
+	font-color: grey;
+	font-size: small;
+	background-color: #f2f2f2;
+	position: absolute;
+	bottom:0%;
+	width: 99%;
+	padding: 20px 0px;
+}
+#France
+{
+	font-family: Arial;
+	font-color:grey;
+	font-size: small;
+	background: #f2f2f2;
+
+}
+#texteC
+{
+	text-align: center;
+}
+#texteG
+{
+	text-align: left;
+}
+#texteD
+{
+	text-align: right;
+}
